@@ -1,19 +1,23 @@
 body{
 
-    font-family: Arial, Helvetica, sans-serif;
-    margin-top: 2%;
+    font-family: monospace;
+    margin-top: 5%;
+    background-color: black;
+    color: cornsilk;
+    
 
 }
 
-.titulo{
+#titulo{
 
-    font-size: 30px;
+    font-size: 40px;
 
 }
 
-.subtitulo{
+#sub{
 
-    font-size: 20;
+    font-size: 20px;
+   
 
 }
 
@@ -21,5 +25,13 @@ body{
 
     margin-left: 10%;
     margin-right: 10%;
+    text-align: justify;
+
+}
+
+
+u{
+
+    text-decoration-color: brown;
 
 }
