@@ -1,0 +1,25 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2%;
+
+}
+
+.titulo{
+
+    font-size: 30px;
+
+}
+
+.subtitulo{
+
+    font-size: 20;
+
+}
+
+.text{
+
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
